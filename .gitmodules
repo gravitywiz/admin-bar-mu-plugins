@@ -1,0 +1,6 @@
+[submodule "admin-bar-form-manager"]
+	path = admin-bar-form-manager
+	url = git@github.com:gravitywiz/admin-bar-form-manager.git
+[submodule "admin-bar-plugin-manager"]
+	path = admin-bar-plugin-manager
+	url = git@github.com:gravitywiz/admin-bar-plugin-manager.git
